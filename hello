@@ -1,0 +1,29 @@
+DOCTYPE html
+<html>
+	<body>
+		<div>
+			<h1>Header 1</h1>
+			<h6>Header 6</h6>
+			
+			<p>Lorem br is line break <br> 
+				snfkjesf <br>
+			</p>
+			<p>
+				I <i>really</i> like <b>cats</b>
+			</p>
+			<ol>
+				<li>Frog</li>
+				<li>dog</li>
+			</ol>
+			<ul>
+				<li>Frog</li>
+				<li>dog</li>
+			</ul>
+			<img src “” width = “400” height = “200”>
+			<br>
+			<a href = “”>Source for the picture</a>
+		</div>
+		<div>
+		</div>
+	</body>
+</html>
